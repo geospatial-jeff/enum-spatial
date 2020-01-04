@@ -1,5 +1,5 @@
 # spatial-enum
-Enumerations for spatial data with support for vectorized spatial operations via `pygeos`(https://github.com/pygeos/pygeos).
+Enumerations for spatial data with support for vectorized spatial operations via [`pygeos`](https://github.com/pygeos/pygeos).
 
 ```python
 from enum_spatial import BoundsEnum
